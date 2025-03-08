@@ -1,5 +1,11 @@
 # Fullstack Task Manager (MERN)
 
+![Screenshot 2025-03-08 130117](https://github.com/user-attachments/assets/1400f51b-6db0-4563-9f5c-4320415424e6)
+![Screenshot 2025-03-08 130135](https://github.com/user-attachments/assets/a4fc3401-f990-45fd-8880-f0b71f43b541)
+![Screenshot 2025-03-08 130159](https://github.com/user-attachments/assets/24864382-c951-461a-b0bf-ee761eaeaa90)
+![Screenshot 2025-03-08 130256](https://github.com/user-attachments/assets/bb031f24-9300-43a1-bb31-9769de2695ab)
+![Screenshot 2025-03-08 130216](https://github.com/user-attachments/assets/74d59809-9d0d-4a00-bc08-74337acf83d8)
+
 
 
 # Overview
